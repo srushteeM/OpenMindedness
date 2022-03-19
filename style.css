@@ -1,0 +1,74 @@
+body{
+    background-image: linear-gradient(to left top, turquoise , white );
+   
+}
+.Quiz {
+    /* margin-top:80px; */
+    width:350px;
+    height:100px;
+    /* margin-left:400px; */
+    background-image: linear-gradient(to right,rgb(13, 13, 161) , white);
+    border:solid ;
+    
+    border-color: rgb(6, 5, 83);
+    border-width: 10px;
+    /* transition: 3s; */
+    font-size: 40px;
+    font-weight: bold;
+    
+
+}
+
+.Blog{
+    /* margin-top:20px; */
+    width:350px;
+    height:100px;
+    /* margin-left:100px; */
+    background-image: linear-gradient(to right,rgb(13, 13, 161) , white);
+    border:solid ;
+    
+    border-color: rgb(6, 5, 83);
+    border-width: 10px;
+    /* transition: 3s; */
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.AboutUs{
+    /* margin-top:50px; */
+    width:350px;
+    height:100px;
+    /* margin-left:300px; */
+    background-image: linear-gradient(to right,rgb(13, 13, 161) , white);
+    border:solid ;
+    
+    border-color: rgb(6, 5, 83);
+    border-width: 10px;
+    /* transition: 3s; */
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.heading{
+    display:flex;
+    justify-content:center;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+}
+.btns{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    margin-top: 20px;
+    
+
+}
+.info{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    font-size: 28px;
+    font-weight: bold;
+    color:black;
+}
